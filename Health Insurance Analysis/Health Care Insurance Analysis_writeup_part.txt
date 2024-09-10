@@ -1,0 +1,11 @@
+Health Care Insurance Analysis:
+
+I have meticulously cleaned and prepared the dataset for analysis. Utilizing a combination of SQL and Python, I managed data preprocessing tasks, ensuring data integrity and consistency. I applied machine learning algorithms to predict patients' healthcare costs and identify key contributing factors. Through this process, I explored the interdependencies between various factors influencing healthcare expenses. The analysis was visualized using Tableau, enabling clear and insightful presentation of the results. These visualizations highlight critical insights, facilitating strategic and tactical decision-making for healthcare insurance providers. The project not only predicts future healthcare costs but also provides a comprehensive understanding of the variables at play, supporting efforts to manage and control rising healthcare expenditures effectively.
+
+
+
+
+
+
+
+link to check certificate - https://ifacet.digitalcredentials.in/
